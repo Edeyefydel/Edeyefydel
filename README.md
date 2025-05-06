@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Edeye Emmanuel and I'm a Backend Engineer, from Nigeria</h2>
+<h2 align="left">Hi 👋! My name is Edeye Emmanuel and I'm a passionate Backend Engineer, from Nigeria</h2>
 
 ###
 
