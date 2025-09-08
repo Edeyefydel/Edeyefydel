@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Edeye Emmanuel and I'm a Passionate Backend Engineer, from Nigeria</h2>
+<h2 align="left">Hi 👋! My name is Edeye Emmanuel and i am a Backend Developer passionate about building scalable and reliable systems.
+I enjoy working with modern backend frameworks and improving my problem-solving skills through real-world projects.</h2>
 
 ###
 
