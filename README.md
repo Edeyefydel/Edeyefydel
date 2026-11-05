@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emmanuel Edeye and I'm a  Backend Developer 💻passionate about building scalable and reliable systems.<br>I enjoy working with modern backend frameworks and improving my problem-solving skills through real-world projects.</h2>
+<h2 align="left">Hi 👋! My name is Emmanuel Edeye and I'm a  Backend Engineer 💻passionate about building scalable and reliable systems.<br>I enjoy working with modern backend frameworks and improving my problem-solving skills through real-world projects.</h2>
 
 ###
 
